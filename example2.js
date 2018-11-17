@@ -14,7 +14,7 @@ makeMessage(false);
 makeMessage(true);
 makeMessage(false);
 
-console.log("What is the status of: " + test);
+// console.log("What is the status of: " + test);
 
 
 
